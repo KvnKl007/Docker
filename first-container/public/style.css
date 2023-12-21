@@ -1,0 +1,34 @@
+/* Reset some default styles */
+body, h1 {
+  margin: 0;
+  padding: 0;
+}
+
+/* Apply a background color to the body */
+body {
+  background-color: #f0f0f0;
+  font-family: 'Arial', sans-serif;
+}
+
+/* Center the content on the page */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+/* Style the heading */
+h1 {
+  color: #333;
+}
+
+/* Add some styling to the message */
+.message {
+  font-size: 1.5em;
+  color: #666;
+  text-align: center;
+  margin-top: 20px;
+}
+

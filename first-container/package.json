@@ -1,0 +1,18 @@
+{
+  "name": "first-container",
+  "version": "1.0.0",
+  "description": "This is my first contianer and it's just basics nothing much going on just a start",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Docker"
+  },
+  "author": "KvnKl007",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
